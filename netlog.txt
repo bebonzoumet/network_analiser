@@ -1,0 +1,312 @@
+3.0073659420013428, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.7849442958831787, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.366992712020874, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.031594276428222656, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03009963035583496, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.029731273651123047, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.017325401306152344, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.0280454158782959, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.028963327407836914, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02897357940673828, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.030843019485473633, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.015144586563110352, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.023946762084960938, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03165102005004883, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.019026517868041992, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.026799917221069336, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02949213981628418, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.016991138458251953, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.029010295867919922, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.016533613204956055, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+2.9114723205566406, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.49228358268737793, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.038115501403808594, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.0032100677490234375, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.05692720413208008, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.027911901473999023, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.028007030487060547, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.028706789016723633, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.029206037521362305, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.019896745681762695, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.04160022735595703, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.013886690139770508, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.029059410095214844, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.026517391204833984, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.025671005249023438, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.025758981704711914, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03069448471069336, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02072930335998535, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.02801799774169922, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.015574455261230469, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0023584365844727, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003653049468994, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002495050430298, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.006524085998535, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0065081119537354, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0061070919036865, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.169410467147827, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0065970420837402, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.23291516304016113, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.201817512512207, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.1053030490875244, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.8841631412506104, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.045790672302246, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.4658396244049072, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.043572187423706, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.3314213752746582, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.1254801750183105, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.006983995437622, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0070576667785645, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.003458023071289, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0043585300445557, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0025558471679688, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.430483102798462, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4850614070892334, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.0316770076751709, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.035153865814208984, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.01500558853149414, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0032215118408203, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003399610519409, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0018911361694336, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003107786178589, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.452596664428711, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.49967479705810547, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.024496793746948242, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.0344851016998291, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002117872238159, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0037789344787598, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0022222995758057, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.488147258758545, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.7445144653320312, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.5161633491516113, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.26018500328063965, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.21847939491271973, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.46448254585266113, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.19783973693847656, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.1971602439880371, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.16323542594909668, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3815784454345703, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.1746692657470703, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.1962597370147705, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2985804080963135, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.25432300567626953, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.23843932151794434, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.8383164405822754, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.5895912647247314, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.003340482711792, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0015616416931152, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0022568702697754, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.342886209487915, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.36145949363708496, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.27799272537231445, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.48990654945373535, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3651282787322998, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.26772570610046387, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.5332541465759277, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.19032597541809082, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4611489772796631, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.20716142654418945, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2960071563720703, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3893575668334961, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.20695853233337402, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0024056434631348, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003225803375244, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0019750595092773, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+2.3729116916656494, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0026988983154297, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.9074835777282715, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2733495235443115, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.288449764251709, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2026667594909668, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2203826904296875, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4691586494445801, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.5105040073394775, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3193824291229248, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.19556760787963867, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.23210954666137695, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.29799509048461914, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.26320385932922363, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.24538469314575195, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3176147937774658, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.46570420265197754, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.1041908264160156, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0029842853546143, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.1074061393737793, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.31963133811950684, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.28914356231689453, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2806987762451172, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3151218891143799, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.23438239097595215, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.5287270545959473, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.33229851722717285, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3140721321105957, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.27487754821777344, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.22029352188110352, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2148725986480713, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.28080201148986816, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.24689126014709473, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4970676898956299, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.45842719078063965, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002845287322998, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0037941932678223, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0035336017608643, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0020973682403564, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.2876050472259521, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3965334892272949, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3160390853881836, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3213326930999756, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.22885942459106445, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.23992586135864258, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.26011157035827637, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2956850528717041, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.26610302925109863, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.30888843536376953, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.31363654136657715, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.28472900390625, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.264324426651001, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.2839319705963135, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.5127754211425781, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.48246049880981445, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002545118331909, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.002121925354004, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.001857042312622, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.001558542251587, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003108501434326, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.9048187732696533, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4991292953491211, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.025452136993408203, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.030509233474731445, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03373885154724121, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.01429295539855957, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02692580223083496, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02842402458190918, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02990269660949707, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02695322036743164, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.030107736587524414, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03203439712524414, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.032299041748046875, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.0322728157043457, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03066396713256836, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.024796724319458008, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.023207426071166992, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.03622293472290039, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.002506971359253, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+2.5213260650634766, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.31555843353271484, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3264765739440918, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.302227258682251, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3023836612701416, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3208465576171875, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.33515310287475586, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.37816405296325684, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.32965898513793945, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.4188508987426758, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3035554885864258, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.3856618404388428, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.40097832679748535, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.32201099395751953, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+1.434812307357788, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0029795169830322, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001736640930176, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0028045177459717, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0021562576293945, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.003213405609131, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0029335021972656, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0018815994262695, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0015475749969482, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0004334449768066, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0024609565734863, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0023744106292725, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001361846923828, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0023200511932373, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0017805099487305, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003552198410034, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002415180206299, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0095717906951904, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0315358638763428, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0103156566619873, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0042881965637207, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0022592544555664, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.065531015396118, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.001800537109375, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0026161670684814, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.001194715499878, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0014007091522217, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0019924640655518, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.004564046859741, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001448392868042, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0013222694396973, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002134323120117, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003598213195801, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0017688274383545, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0025947093963623, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0048484802246094, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0034515857696533, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003459930419922, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0031964778900146, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.000382661819458, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0037174224853516, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002338171005249, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0035698413848877, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.002819299697876, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.002722978591919, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0034077167510986, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0022270679473877, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001655340194702, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003822088241577, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002275228500366, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0019681453704834, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0027174949645996, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0048797130584717, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0015580654144287, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.017193555831909, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.008953332901001, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002621650695801, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001190185546875, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0028631687164307, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002776861190796, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002437114715576, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0018880367279053, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0018603801727295, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0019257068634033, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0028817653656006, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0021462440490723, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0029845237731934, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0023696422576904, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0029022693634033, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0020253658294678, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0005829334259033, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002821445465088, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0023579597473145, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001779556274414, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.002005100250244, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0037455558776855, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.00412654876709, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0032947063446045, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.004746913909912, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001143217086792, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.0025601387023926, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.003695011138916, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+3.001373052597046, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.003599166870117, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+3.0027215480804443, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.4076831340789795, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.0, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.48490476608276367, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.1, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03238987922668457, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.2, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.028322935104370117, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.3, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.034122467041015625, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.4, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.021158456802368164, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.5, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.036368370056152344, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.6, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.01813960075378418, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.7, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03840494155883789, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.8, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.019425153732299805, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.9, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.025696277618408203, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.10, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.04600048065185547, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.11, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.008063554763793945, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.12, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.035439252853393555, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.13, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.02186298370361328, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.14, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.03782296180725098, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.15, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.015882015228271484, rede, ICMP, 192.168.1.70, 192.168.1.70, 192.168.1.16, Anomalia: False, Descricao: Nao recebeu resposta ICMP e nao era esperada
+0.018786907196044922, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.026755332946777344, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
+0.029108285903930664, rede, TCP, 192.168.1.70, 192.168.1.70, 192.168.1.154, Anomalia: True/Rede: False, Descricao: Porta na lista de portas ativas, resposta esperada nao foi recebida
